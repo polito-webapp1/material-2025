@@ -5,7 +5,7 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 ## Slides
 
 - [Introduction to the course (prof. Corno, Web Applications I)](./slide/00-intro-2025-WA1.pdf)
-- Introduction to the course (prof. De Russis, Applicazioni Web I)
+- [Introduction to the course (prof. De Russis, Applicazioni Web I)](./slide/00-intro-2025-AW1.pdf)
 
 ### Javascript
 
@@ -22,7 +22,6 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 
 ### Browsers and client-side applications
 - See **Reading 1**
-- JavaScript in the browser
 - fetch API
 
 
@@ -42,5 +41,5 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 
 
 ## Laboratories
-The text and a (possible) solution of each laboratory are available in the [`lab-2025` repository](https://github.com/polito-webapp1/lab-2025).
+The texts of each laboratory are available in the [`lab-2025` repository](https://github.com/polito-webapp1/lab-2025).
 
