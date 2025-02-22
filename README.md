@@ -4,14 +4,14 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 
 ## Slides
 
-- Introduction to the course (prof. Corno, Web Applications I)
+- [Introduction to the course (prof. Corno, Web Applications I)](./slide/00-intro-2025-WA1.pdf)
 - Introduction to the course (prof. De Russis, Applicazioni Web I)
 
 ### Javascript
 
-- JavaScript Basics
-- JavaScript Objects and Functions
-- Asynchronous Programming in JavaScript
+- [JavaScript Basics](./slide/1-01-javascript-basics.pdf)
+- [JavaScript Objects and Functions](./slide/1-02-javascript-objects-functions.pdf)
+- [Asynchronous Programming in JavaScript](./slide/1-03-javascript-async-programming.pdf)
 
 
 ### Web Servers and server-side APIs
