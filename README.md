@@ -26,8 +26,8 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 
 
 ### React
-- Introduction to React
-- JSX, Components, props
+- [Introduction to React](./slide/4-01-React-intro.pdf)
+- [JSX, Components, props](./slide/4-02-Elements-and-JSX.pdf)
 - Components and state
 - Forms
 - Context
