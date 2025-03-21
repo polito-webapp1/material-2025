@@ -37,7 +37,7 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 
 ## Readings
 
-- HTML and CSS
+- [HTML and CSS](./readings/3-0-reading-html-css.pdf)
 
 
 ## Laboratories
