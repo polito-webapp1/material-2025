@@ -29,9 +29,9 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 - [Introduction to React](./slide/4-01-React-intro.pdf)
 - [JSX, Components, props](./slide/4-02-Elements-and-JSX.pdf)
 - [Components and state](./slide/4-03-Components-and-state.pdf)
-- Forms
-- Context
-- React Router
+- [Forms](./slide/4-04-Forms.pdf)
+- [Context](./slide/4-05-Context.pdf)
+- [React Router](./slide/4-06-React-Router.pdf)
 - Client-Server Interaction in React
 - React Life Cycle
 
