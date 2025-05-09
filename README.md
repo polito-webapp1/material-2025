@@ -17,7 +17,7 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 ### Web Servers and server-side APIs
 - [Express](./slide/2-01-Express.pdf)
 - [HTTP APIs](./slide/2-02-API.pdf)
-- Authentication
+- [Authentication](./slide/2-03-Authentication.pdf)
 
 
 ### Browsers and client-side applications
